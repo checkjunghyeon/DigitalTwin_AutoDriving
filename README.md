@@ -95,6 +95,9 @@ $ echo 'export TURTLEBOT3_MODEL=burger_cam' >> ~/.bashrc
 ## ✅ 시뮬레이션 버전(Gazebo)
 #### 🔹System Running
 ```
+$ cd ~/turtlebot3_ws/
+$ source install/setup.bash
+
 # Terminal 1
 $ ros2 launch turtlebot3_gazebo turtlebot3_autorace_2020.launch.py
 
@@ -120,7 +123,7 @@ $ ros2 launch turtlebot3_autorace_mission control_lane.launch.py
 ```
 # Terminal 8
 
-$ cd ~/{your_ws}/src/pyqt5_gui
+$ cd ~/rokeyracing_ws/src/pyqt5_gui
 $ python3 main_window.py
 ```
 
@@ -144,7 +147,7 @@ $ ros2 launch turtlebot3_manipulation_moveit_config moveit_gazebo.launch.py
 #### 🔹System Running
 ```
 # Terminal 1~2
-$ cd ~/rokeypj/
+$ cd ~/rokeypj_ws/
 $ source install/setup.bash
 
 # Terminal 1
@@ -156,7 +159,7 @@ $ ros2 launch aruco_yolo aruco_detect.launch.py
 
 ```
 # Terminal 3~9
-$ cd ~/rokeyracing/
+$ cd ~/rokeyracing_ws/
 $ source install/setup.bash
 
 # Terminal 3
@@ -180,6 +183,6 @@ $ ros2 launch turtlebot3_autorace_mission control_lane.launch.py
 
 ```
 # Terminal 9
-$ cd ~/rokeyracing/src/pyqt5_gui
+$ cd ~/rokeyracing_ws/src/pyqt5_gui
 $ python3 main_window.py
 ```

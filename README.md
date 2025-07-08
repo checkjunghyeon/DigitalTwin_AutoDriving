@@ -94,6 +94,8 @@ $ echo 'export GAZEBO_PLUGIN_PATH=$HOME/turtlebot3_ws/build/turtlebot3_gazebo:$G
 $ echo 'export TURTLEBOT3_MODEL=burger_cam' >> ~/.bashrc
 ```
 
+<br>
+
 ## ✅ 시뮬레이션 버전(Gazebo)
 #### 🔹System Running
 ```

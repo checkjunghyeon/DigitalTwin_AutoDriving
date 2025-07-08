@@ -92,17 +92,6 @@ $ echo 'export GAZEBO_PLUGIN_PATH=$HOME/turtlebot3_ws/build/turtlebot3_gazebo:$G
 $ echo 'export TURTLEBOT3_MODEL=burger_cam' >> ~/.bashrc
 ```
 
-#### 🔹Bringup(TurtleBot3 SBC)
-```
-$ ros2 launch turtlebot3_manipulation_bringup hardware.launch.py
-```
-
-#### 🔹Simulation with MoveIt2!
-```
-$ ros2 launch turtlebot3_manipulation_moveit_config moveit_gazebo.launch.py
-```
-➡️➡️➡️ Goal State를 lane_tracking3으로 선택 후, Plan & Execute 버튼 클릭
-
 <br>
 
 #### 🔹System Running
@@ -137,4 +126,53 @@ $ python3 main_window.py
 
 <br>
 
-## ✅ (2) 실환경 버전(Gazebo)
+## ✅ (2) 실환경 버전
+
+#### 🔹Bringup(TurtleBot3 SBC)
+```
+$ ros2 launch turtlebot3_manipulation_bringup hardware.launch.py
+```
+
+#### 🔹Simulation with MoveIt2!
+```
+$ ros2 launch turtlebot3_manipulation_moveit_config moveit_gazebo.launch.py
+```
+➡️➡️➡️ Goal State를 lane_tracking_03 선택 후, Plan & Execute 버튼 클릭
+
+<br>
+
+#### 🔹System Running
+```
+# Terminal 1
+$ cd ~/rokeypj/
+$ source install/setup.bash
+$ ros2 launch aruco_yolo cameara.launch.py
+
+# Terminal 2~
+$ cd ~/rokeyracing/
+$ source install/setup.bash
+
+# Terminal 2
+$ ros2 launch turtlebot3_autorace_camera intrinsic_camera_calibration.launch.py
+
+# Terminal 3
+$ ros2 launch turtlebot3_autorace_camera extrinsic_camera_calibration.launch.py
+
+# Terminal 4
+$ ros2 launch turtlebot3_autorace_detect detect_lane.launch.py calibration_mode:=True
+
+# Terminal 5
+$ ros2 launch turtlebot3_autorace_detect detect_signcombine.launch.py
+
+# Terminal 6
+$ ros2 launch turtlebot3_autorace_detect detect_level_crossing.launch.py
+
+# Terminal 7
+$ ros2 launch turtlebot3_autorace_mission control_lane.launch.py
+```
+
+#### Terminal 8
+```
+$ cd ~/{your_ws}/src/pyqt5_gui
+$ python3 main_window.py
+```

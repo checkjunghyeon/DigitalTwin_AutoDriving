@@ -41,7 +41,7 @@ colcon build --symlink-install
 
 <br>
 
-## ✅ (1) 시뮬레이션 버전(Gazebo)
+## ✅ PC Setup
 #### 🔹Install Dependent ROS 2 Packages
 ```
 $ sudo apt install ros-humble-gazebo-*
@@ -92,6 +92,7 @@ $ echo 'export GAZEBO_PLUGIN_PATH=$HOME/turtlebot3_ws/build/turtlebot3_gazebo:$G
 $ echo 'export TURTLEBOT3_MODEL=burger_cam' >> ~/.bashrc
 ```
 
+## ✅ 시뮬레이션 버전(Gazebo)
 #### 🔹System Running
 ```
 # Terminal 1
@@ -116,15 +117,16 @@ $ ros2 launch turtlebot3_autorace_detect detect_level_crossing.launch.py
 $ ros2 launch turtlebot3_autorace_mission control_lane.launch.py
 ```
 
-#### Terminal 8
 ```
+# Terminal 8
+
 $ cd ~/{your_ws}/src/pyqt5_gui
 $ python3 main_window.py
 ```
 
 <br>
 
-## ✅ (2) 실환경 버전
+## ✅ 실환경 버전
 
 #### 🔹Bringup(TurtleBot3 SBC)
 ```
@@ -141,7 +143,7 @@ $ ros2 launch turtlebot3_manipulation_moveit_config moveit_gazebo.launch.py
 
 #### 🔹System Running
 ```
-# Terminal 1
+# Terminal 1~2
 $ cd ~/rokeypj/
 $ source install/setup.bash
 

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3efcf89d-30ca-4d02-b372-7bf24aacbff3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ld08_driver/.github/workflows/ros-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/.github/workflows/ros-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/include/cmd_interface_linux.h" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/include/cmd_interface_linux.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/include/lipkg.h" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/include/lipkg.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/include/pointdata.h" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/include/pointdata.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/include/slbf.h" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/include/slbf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/include/transform.h" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/include/transform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/launch/ld08.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/launch/ld08.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/src/cmd_interface_linux.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/src/cmd_interface_linux.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/src/lipkg.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/src/lipkg.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/src/slbf.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/src/slbf.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ld08_driver/src/transform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ld08_driver/src/transform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/.github/workflows/ros-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/.github/workflows/ros-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/config/gazebo_controller_manager.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/config/gazebo_controller_manager.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/config/hardware_controller_manager.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/config/hardware_controller_manager.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/env-hooks/turtlebot3_manipulation_bringup.dsv.in" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/env-hooks/turtlebot3_manipulation_bringup.dsv.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/base.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/base.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/fake.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/fake.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/gazebo.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/gazebo.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/hardware.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/launch/hardware.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/rviz/turtlebot3_manipulation.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/rviz/turtlebot3_manipulation.rviz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/empty_world.model" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/empty_world.model" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world.model" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world.model" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/meshes/hexagon.dae" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/meshes/hexagon.dae" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/meshes/wall.dae" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/meshes/wall.dae" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/model-1_4.sdf" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/model-1_4.sdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/model.config" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/model.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/model.sdf" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_bringup/worlds/turtlebot3_world/model.sdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_cartographer/CHANGELOG.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_cartographer/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_cartographer/config/turtlebot3_2d.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_cartographer/launch/cartographer.launch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_cartographer/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_cartographer/rviz/cartographer.rviz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/env-hooks/turtlebot3_manipulation_description.dsv.in" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/env-hooks/turtlebot3_manipulation_description.dsv.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/gazebo/materials.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/gazebo/materials.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/gazebo/open_manipulator_x.gazebo.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/gazebo/open_manipulator_x.gazebo.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/gazebo/turtlebot3_waffle_pi.gazebo.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/gazebo/turtlebot3_waffle_pi.gazebo.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/launch/model.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/launch/model.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/gripper_left_palm.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/gripper_left_palm.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/gripper_right_palm.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/gripper_right_palm.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link1.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link1.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link2.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link2.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link3.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link3.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link4.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link4.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link5.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/open_manipulator_x/link5.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/base.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/base.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/ladar.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/ladar.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/left_tire.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/left_tire.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/right_tire.stl" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/meshes/turtlebot3_waffle_pi/right_tire.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/ros2_control/turtlebot3_manipulation_system.ros2_control.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/ros2_control/turtlebot3_manipulation_system.ros2_control.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/rviz/model.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/rviz/model.rviz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/urdf/open_manipulator_x.urdf.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/urdf/open_manipulator_x.urdf.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/urdf/turtlebot3_manipulation.urdf.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/urdf/turtlebot3_manipulation.urdf.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/urdf/turtlebot3_waffle_pi.urdf.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_description/urdf/turtlebot3_waffle_pi.urdf.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/dynamixel_sdk_wrapper.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/dynamixel_sdk_wrapper.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/opencr.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/opencr.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/opencr_control_table.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/opencr_control_table.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/opencr_definitions.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/opencr_definitions.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/turtlebot3_manipulation_system.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/turtlebot3_manipulation_system.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/visibility_control.h" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/turtlebot3_manipulation_hardware/visibility_control.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/src/dynamixel_sdk_wrapper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/src/dynamixel_sdk_wrapper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/src/opencr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/src/opencr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/src/turtlebot3_manipulation_system.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/src/turtlebot3_manipulation_system.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/turtlebot3_manipulation_hardware.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_hardware/turtlebot3_manipulation_hardware.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/.setup_assistant" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/.setup_assistant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/initial_positions.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/initial_positions.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/joint_limits.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/joint_limits.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/kinematics.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/kinematics.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit.rviz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit_controllers.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit_controllers.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit_servo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit_servo.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit_teleop.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/moveit_teleop.rviz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/ompl_planning.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/ompl_planning.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/turtlebot3_manipulation.srdf" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/config/turtlebot3_manipulation.srdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/move_group.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/move_group.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_core.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_core.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_fake.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_fake.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_gazebo.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_gazebo.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_rviz.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/moveit_rviz.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/rsp.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/rsp.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/servo.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/servo.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/setup_assistant.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/setup_assistant.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/spawn_controllers.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/spawn_controllers.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/static_virtual_joint_tfs.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/static_virtual_joint_tfs.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/warehouse_db.launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/launch/warehouse_db.launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_moveit_config/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/CHANGELOG.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/launch/navigation2.launch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/launch/navigation2_use_sim_time.launch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/map/turtlebot3_world.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/map/turtlebot3_world.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/param/turtlebot3.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/param/turtlebot3_use_sim_time.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_navigation2/rviz/navigation2.rviz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/include/turtlebot3_manipulation_teleop/turtlebot3_manipulation_teleop.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/include/turtlebot3_manipulation_teleop/turtlebot3_manipulation_teleop.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/src/turtlebot3_manipulation_teleop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_manipulation/turtlebot3_manipulation_teleop/src/turtlebot3_manipulation_teleop.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ld08_driver" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zartRaDdURAn3egguWmzzR8Nnx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "ros2-devel",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3efcf89d-30ca-4d02-b372-7bf24aacbff3" name="Changes" comment="" />
+      <created>1751980240496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751980240496</updated>
+      <workItem from="1751980243001" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

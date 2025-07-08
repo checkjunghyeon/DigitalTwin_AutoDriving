@@ -36,6 +36,10 @@ mkdir ~/DigitalTwin_AutoDriving/
 cd ~/DigitalTwin_AutoDriving/
 git clone https://github.com/checkjunghyeon/DigitalTwin_AutoDriving.git
 
+$ cd ~/rokeypj_ws/src/
+colcon build --symlink-install
+
+$ cd ~/rokeyracing_ws/src/
 colcon build --symlink-install
 ```
 
@@ -57,9 +61,6 @@ $ sudo apt install ros-humble-nav2-bringup
 $ source /opt/ros/humble/setup.bash
 $ mkdir -p ~/turtlebot3_ws/src
 $ cd ~/turtlebot3_ws/src/
-$ git clone -b humble https://github.com/ROBOTIS-GIT/DynamixelSDK.git
-$ git clone -b humble https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
-$ git clone -b humble https://github.com/ROBOTIS-GIT/turtlebot3.git
 $ sudo apt install python3-colcon-common-extensions
 $ cd ~/turtlebot3_ws
 $ colcon build --symlink-install

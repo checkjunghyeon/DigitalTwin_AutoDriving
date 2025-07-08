@@ -92,8 +92,6 @@ $ echo 'export GAZEBO_PLUGIN_PATH=$HOME/turtlebot3_ws/build/turtlebot3_gazebo:$G
 $ echo 'export TURTLEBOT3_MODEL=burger_cam' >> ~/.bashrc
 ```
 
-<br>
-
 #### 🔹System Running
 ```
 # Terminal 1
@@ -146,33 +144,40 @@ $ ros2 launch turtlebot3_manipulation_moveit_config moveit_gazebo.launch.py
 # Terminal 1
 $ cd ~/rokeypj/
 $ source install/setup.bash
+
+# Terminal 1
 $ ros2 launch aruco_yolo cameara.launch.py
 
-# Terminal 2~
+# Terminal 2
+$ ros2 launch aruco_yolo aruco_detect.launch.py
+```
+
+```
+# Terminal 3~9
 $ cd ~/rokeyracing/
 $ source install/setup.bash
 
-# Terminal 2
+# Terminal 3
 $ ros2 launch turtlebot3_autorace_camera intrinsic_camera_calibration.launch.py
 
-# Terminal 3
+# Terminal 4
 $ ros2 launch turtlebot3_autorace_camera extrinsic_camera_calibration.launch.py
 
-# Terminal 4
+# Terminal 5
 $ ros2 launch turtlebot3_autorace_detect detect_lane.launch.py calibration_mode:=True
 
-# Terminal 5
-$ ros2 launch turtlebot3_autorace_detect detect_signcombine.launch.py
-
 # Terminal 6
-$ ros2 launch turtlebot3_autorace_detect detect_level_crossing.launch.py
+$ ros2 launch turtlebot3_autorace_detect detect_traffic_light_SIFT.launch.py
 
 # Terminal 7
+$ ros2 launch turtlebot3_autorace_detect detect_level_crossing.launch.py
+
+# Terminal 8
 $ ros2 launch turtlebot3_autorace_mission control_lane.launch.py
 ```
 
-#### Terminal 8
 ```
-$ cd ~/{your_ws}/src/pyqt5_gui
+# Terminal 9
+$ cd ~/rokeyracing/src/pyqt5_gui
 $ python3 main_window.py
 ```

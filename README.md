@@ -42,6 +42,7 @@ colcon build --symlink-install
 <br>
 
 ## ✅ PC Setup
+**참고**: https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/
 #### 🔹Install Dependent ROS 2 Packages
 ```
 $ sudo apt install ros-humble-gazebo-*

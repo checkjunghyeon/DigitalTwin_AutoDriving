@@ -61,7 +61,6 @@ $ sudo apt install ros-humble-nav2-bringup
 #### 🔹Install TurtleBot3 Packages
 ```
 $ source /opt/ros/humble/setup.bash
-$ mkdir -p ~/turtlebot3_ws/src
 $ cd ~/turtlebot3_ws/src/
 $ sudo apt install python3-colcon-common-extensions
 $ cd ~/turtlebot3_ws
